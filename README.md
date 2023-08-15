@@ -13,6 +13,14 @@ El propósito de la creación del aplicativo web para la gestión de procesos ad
 - `Funcionalidad 3`: El sistema permite a los usuarios administradores o empleados gestionar el inventario del hotel.
 - `Funcionalidad 4`: El sistema permite a los administradores o empleados tener un modulo de facturación.
 
+## 👩‍💻 Equipo del proyecto
+
+- `SCRUM MASTER`: Camila Valderrama
+- `Analista`: Gabriela Parada
+- `QA`: Andrea Gómez
+- `Dev`: Diego Corredor
+- `Docente`: Nini Johana Diaz Martinez
+
 ## 📁 Acceso al proyecto
 
 **El proyecto está estructurado en 2 carpetas, en la primera está lo necesario para el Frontend y la segunda todo para el Backend.**
