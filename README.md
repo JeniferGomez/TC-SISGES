@@ -15,7 +15,7 @@ El propósito de la creación del aplicativo web para la gestión de procesos ad
 
 ## 👩‍💻 Equipo del proyecto
 
-- `SCRUM MASTER`: Camila Valderrama
+- `SCRUM MASTER`: Camila Valderrama 💜
 - `Analista`: Gabriela Parada
 - `QA`: Andrea Gómez
 - `Dev`: Diego Corredor
@@ -89,7 +89,7 @@ npm run dev
 - `Front-end`: React v18.2.
 - `NodeJs`: NodeJs v18.12.1.
 - `Gestor de paquetes`: Npm v8.19.2.
-- `Base de datos`: MySQL v8. 
+- `Base de datos`: MySQL v8.1 
 - `Tipografia`: Google Font API. 
 - `Framework javascript`: PRIMEREACT como componentes nativos para React. 
 - `Back-end`: TypeScript.
